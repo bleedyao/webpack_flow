@@ -1,14 +1,14 @@
 # 第一章 webpack 与构建发展简史
 
-* [ ] [01 | 课程介绍](https://time.geekbang.org/column/article/97202)
-* [ ] [02 | 内容综述](https://time.geekbang.org/column/article/97203)
-* [ ] [03 | 为什么需要构建工具](https://time.geekbang.org/column/article/97204)
-* [ ] [04 | 前端构建演变之路](https://time.geekbang.org/column/article/97205)
-* [ ] [05 | 为什么选择webpack](https://time.geekbang.org/column/article/97207)
-* [ ] [06 | 初识webpack](https://time.geekbang.org/column/article/97208)
-* [ ] [07 | 环境搭建：安装webpack](https://time.geekbang.org/column/article/97209)
-* [ ] [08 | webpack初体验：一个最简单的例子](https://time.geekbang.org/column/article/97210)
-* [ ] [09 | 通过npm script运行webpack](https://time.geekbang.org/column/article/97212)
+* [x] [01 | 课程介绍](https://time.geekbang.org/column/article/97202)
+* [x] [02 | 内容综述](https://time.geekbang.org/column/article/97203)
+* [x] [03 | 为什么需要构建工具](https://time.geekbang.org/column/article/97204)
+* [x] [04 | 前端构建演变之路](https://time.geekbang.org/column/article/97205)
+* [x] [05 | 为什么选择webpack](https://time.geekbang.org/column/article/97207)
+* [x] [06 | 初识webpack](https://time.geekbang.org/column/article/97208)
+* [x] [07 | 环境搭建：安装webpack](https://time.geekbang.org/column/article/97209)
+* [x] [08 | webpack初体验：一个最简单的例子](https://time.geekbang.org/column/article/97210)
+* [x] [09 | 通过npm script运行webpack](https://time.geekbang.org/column/article/97212)
 
 # 第二章 webpack基础用法
 
