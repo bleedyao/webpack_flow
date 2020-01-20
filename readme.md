@@ -12,13 +12,13 @@
 
 # 第二章 webpack基础用法
 
-- [ ] [10 | webpack核心概念之entry](https://time.geekbang.org/column/article/97213)
-- [ ] [11 | webpack核心概念之output](https://time.geekbang.org/column/article/97245)
-- [ ] [12 | webpack核心概念之loaders](https://time.geekbang.org/column/article/97248)
-- [ ] [13 | webpack核心概念之plugins](https://time.geekbang.org/column/article/97249)
-- [ ] [14 | webpack核心概念之mode](https://time.geekbang.org/column/article/97251)
-- [ ] [15 | 解析ECMASCript 6和React JSX](https://time.geekbang.org/column/article/97874)
-- [ ] [16 | 解析CSS、Less和Sass](https://time.geekbang.org/column/article/97875)
+- [x] [10 | webpack核心概念之entry](https://time.geekbang.org/column/article/97213)
+- [x] [11 | webpack核心概念之output](https://time.geekbang.org/column/article/97245)
+- [x] [12 | webpack核心概念之loaders](https://time.geekbang.org/column/article/97248)
+- [x] [13 | webpack核心概念之plugins](https://time.geekbang.org/column/article/97249)
+- [x] [14 | webpack核心概念之mode](https://time.geekbang.org/column/article/97251)
+- [x] [15 | 解析ECMASCript 6和React JSX](https://time.geekbang.org/column/article/97874)
+- [x] [16 | 解析CSS、Less和Sass](https://time.geekbang.org/column/article/97875)
 - [ ] [17 | 解析图片和字体](https://time.geekbang.org/column/article/98389)
 - [ ] [18 | webpack中的文件监听](https://time.geekbang.org/column/article/98390)
 - [ ] [19 | webpack中的热更新及原理分析](https://time.geekbang.org/column/article/98391)
