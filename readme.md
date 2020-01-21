@@ -19,11 +19,11 @@
 - [x] [14 | webpack核心概念之mode](https://time.geekbang.org/column/article/97251)
 - [x] [15 | 解析ECMASCript 6和React JSX](https://time.geekbang.org/column/article/97874)
 - [x] [16 | 解析CSS、Less和Sass](https://time.geekbang.org/column/article/97875)
-- [ ] [17 | 解析图片和字体](https://time.geekbang.org/column/article/98389)
-- [ ] [18 | webpack中的文件监听](https://time.geekbang.org/column/article/98390)
-- [ ] [19 | webpack中的热更新及原理分析](https://time.geekbang.org/column/article/98391)
-- [ ] [20 | 文件指纹策略：chunkhash、contenthash和hash](https://time.geekbang.org/column/article/98392)
-- [ ] [21 | HTML 、CSS和JavaScript代码压缩](https://time.geekbang.org/column/article/98394)
+- [x] [17 | 解析图片和字体](https://time.geekbang.org/column/article/98389)
+- [x] [18 | webpack中的文件监听](https://time.geekbang.org/column/article/98390)
+- [x] [19 | webpack中的热更新及原理分析](https://time.geekbang.org/column/article/98391)
+- [x] [20 | 文件指纹策略：chunkhash、contenthash和hash](https://time.geekbang.org/column/article/98392)
+- [x] [21 | HTML 、CSS和JavaScript代码压缩](https://time.geekbang.org/column/article/98394)
 
 # 第三章 webpack进阶用法
 
