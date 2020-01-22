@@ -2,11 +2,14 @@
 
 const path = require('path')
 const webpack = require('webpack')
+const {
+    CleanWebpackPlugin
+} = require('clean-webpack-plugin');
 
 module.exports = {
     entry: {
         index: './src/index.js',
-        search: './src/search.js'
+        search: './src/index.js'
     },
     output: {
         path: path.join(__dirname, 'dist'),
@@ -14,13 +17,12 @@ module.exports = {
     },
     mode: 'development',
     module: {
-        rules: [
-            {
+        rules: [{
                 test: /.js$/,
                 use: 'babel-loader'
             },
             {
-                test:/.css$/,
+                test: /.css$/,
                 use: [
                     'style-loader',
                     'css-loader'
@@ -36,14 +38,12 @@ module.exports = {
             },
             {
                 test: /.(png|jpg|gif|jpeg)$/,
-                use: [
-                    {
-                        loader: 'url-loader',
-                        options: {
-                            limit: 10240
-                        }
+                use: [{
+                    loader: 'url-loader',
+                    options: {
+                        limit: 10240
                     }
-                ]
+                }]
             },
             {
                 test: /.(woff|woff2|eot|ttf|otf)/,
@@ -52,7 +52,8 @@ module.exports = {
         ]
     },
     plugins: [
-        new webpack.HotModuleReplacementPlugin()
+        new webpack.HotModuleReplacementPlugin(),
+        new CleanWebpackPlugin()
     ],
     devServer: {
         contentBase: "./dist",

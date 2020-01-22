@@ -27,11 +27,11 @@
 
 # 第三章 webpack 进阶用法
 
-- [ ] [22 | 自动清理构建目录产物](https://time.geekbang.org/column/article/99019)
-- [ ] [23 | PostCSS 插件 autoprefixer 自动补齐 CSS3 前缀](https://time.geekbang.org/column/article/99020)
-- [ ] [24 | 移动端 CSS px 自动转换成 rem](https://time.geekbang.org/column/article/99574)
-- [ ] [25 | 静态资源内联](https://time.geekbang.org/column/article/99575)
-- [ ] [26 | 多页面应用打包通用方案](https://time.geekbang.org/column/article/100095)
+- [x] [22 | 自动清理构建目录产物](https://time.geekbang.org/column/article/99019)
+- [x] [23 | PostCSS 插件 autoprefixer 自动补齐 CSS3 前缀](https://time.geekbang.org/column/article/99020)
+- [x] [24 | 移动端 CSS px 自动转换成 rem](https://time.geekbang.org/column/article/99574)
+- [x] [25 | 静态资源内联](https://time.geekbang.org/column/article/99575)
+- [x] [26 | 多页面应用打包通用方案](https://time.geekbang.org/column/article/100095)
 - [ ] [27 | 使用 sourcemap](https://time.geekbang.org/column/article/100096)
 - [ ] [28 | 提取页面公共资源](https://time.geekbang.org/column/article/100678)
 - [ ] [29 | Tree Shaking 的使用和原理分析](https://time.geekbang.org/column/article/100679)
